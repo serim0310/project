@@ -1,0 +1,16 @@
+변수설명
+
+UTC: 타임스탬프 (초 단위)
+Temperature[C]: 공기 온도 (섭씨)
+Humidity[%]: 공기 습도 (퍼센트)
+TVOC[ppb]: 총 휘발성 유기 화합물 농도 (parts per billion 단위)
+eCO2[ppm]: CO2 등가 농도 (parts per million 단위)
+Raw H2: 보정되지 않은 분자 수소 농도
+Raw Ethanol: 보정되지 않은 에탄올 농도
+Pressure[hPa]: 대기압 (헥토파스칼)
+PM1.0: 1.0 µm 이하의 입자 물질 농도
+PM2.5: 2.5 µm 이하의 입자 물질 농도
+NC0.5: 0.5 µm 이하의 입자 물질의 입자 수
+NC2.5: 2.5 µm 이하의 입자 물질의 입자 수
+CNT: 샘플 카운터
+Fire Alarm: 화재 발생 여부를 나타내는 타겟 변수 (1이면 화재 발생, 0이면 화재 미발생)
