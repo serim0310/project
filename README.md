@@ -59,11 +59,8 @@
 1. **환경 설정**:
    - 이 리포지토리를 클론하고, 필요한 Python 라이브러리(`pandas`, `matplotlib`, `seaborn`, `scikit-learn`)를 설치합니다.
    - `requirements.txt` 파일이 제공된 경우, 다음 명령어로 필요한 패키지를 설치할 수 있습니다:
-     ```
+  
    <img width="638" alt="스크린샷 2024-08-21 오후 10 47 23" src="https://github.com/user-attachments/assets/60683b94-03e3-4e13-8437-c3e726d94146">
-
-
-     ```
 
 2. **데이터 분석 및 모델링**:
    - Python 스크립트를 실행하여 데이터 분석 및 모델 학습을 진행합니다.
