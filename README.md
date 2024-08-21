@@ -1,9 +1,5 @@
-<img width="768" alt="스크린샷 2024-08-21 오후 10 51 38" src="https://github.com/user-attachments/assets/f6ce4cba-30c1-480f-9dcd-701e2aed89a2">
 # 연기 감지 및 화재 경보 예측
-
-
-
-
+<img width="768" alt="스크린샷 2024-08-21 오후 10 51 38" src="https://github.com/user-attachments/assets/4c18fa78-79a6-4a1b-bec0-34cfd2fdfee5">
 
 ## 프로젝트 목적
 
